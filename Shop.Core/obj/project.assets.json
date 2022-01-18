@@ -1089,11 +1089,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.Core\\Shop.Core.csproj",
+      "projectUniqueName": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\New folder\\Shop.Core\\Shop.Core.csproj",
       "projectName": "Shop.Core",
-      "projectPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.Core\\Shop.Core.csproj",
+      "projectPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\New folder\\Shop.Core\\Shop.Core.csproj",
       "packagesPath": "C:\\Users\\tristan.lossman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.Core\\obj\\",
+      "outputPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\New folder\\Shop.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tristan.lossman\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop\\Shop.csproj": {}
+    "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\New folder\\Shop\\Shop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj": {
+    "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\New folder\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj",
+        "projectUniqueName": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\New folder\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj",
         "projectName": "Shop.ApplicationServices",
-        "projectPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj",
+        "projectPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\New folder\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj",
         "packagesPath": "C:\\Users\\tristan.lossman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.ApplicationServices\\obj\\",
+        "outputPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\New folder\\Shop.ApplicationServices\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tristan.lossman\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.Core\\Shop.Core.csproj": {
-                "projectPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.Core\\Shop.Core.csproj"
+              "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\New folder\\Shop.Core\\Shop.Core.csproj": {
+                "projectPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\New folder\\Shop.Core\\Shop.Core.csproj"
               },
-              "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.Data\\Shop.Data.csproj": {
-                "projectPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.Data\\Shop.Data.csproj"
+              "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\New folder\\Shop.Data\\Shop.Data.csproj": {
+                "projectPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\New folder\\Shop.Data\\Shop.Data.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.Core\\Shop.Core.csproj": {
+    "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\New folder\\Shop.Core\\Shop.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.Core\\Shop.Core.csproj",
+        "projectUniqueName": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\New folder\\Shop.Core\\Shop.Core.csproj",
         "projectName": "Shop.Core",
-        "projectPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.Core\\Shop.Core.csproj",
+        "projectPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\New folder\\Shop.Core\\Shop.Core.csproj",
         "packagesPath": "C:\\Users\\tristan.lossman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.Core\\obj\\",
+        "outputPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\New folder\\Shop.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tristan.lossman\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -142,14 +142,14 @@
         }
       }
     },
-    "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.Data\\Shop.Data.csproj": {
+    "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\New folder\\Shop.Data\\Shop.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.Data\\Shop.Data.csproj",
+        "projectUniqueName": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\New folder\\Shop.Data\\Shop.Data.csproj",
         "projectName": "Shop.Data",
-        "projectPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.Data\\Shop.Data.csproj",
+        "projectPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\New folder\\Shop.Data\\Shop.Data.csproj",
         "packagesPath": "C:\\Users\\tristan.lossman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.Data\\obj\\",
+        "outputPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\New folder\\Shop.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tristan.lossman\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -166,8 +166,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.Core\\Shop.Core.csproj": {
-                "projectPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.Core\\Shop.Core.csproj"
+              "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\New folder\\Shop.Core\\Shop.Core.csproj": {
+                "projectPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\New folder\\Shop.Core\\Shop.Core.csproj"
               }
             }
           }
@@ -210,14 +210,14 @@
         }
       }
     },
-    "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop\\Shop.csproj": {
+    "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\New folder\\Shop\\Shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop\\Shop.csproj",
+        "projectUniqueName": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\New folder\\Shop\\Shop.csproj",
         "projectName": "Shop",
-        "projectPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop\\Shop.csproj",
+        "projectPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\New folder\\Shop\\Shop.csproj",
         "packagesPath": "C:\\Users\\tristan.lossman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop\\obj\\",
+        "outputPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\New folder\\Shop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tristan.lossman\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -234,11 +234,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj": {
-                "projectPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj"
+              "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\New folder\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj": {
+                "projectPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\New folder\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj"
               },
-              "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.Data\\Shop.Data.csproj": {
-                "projectPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.Data\\Shop.Data.csproj"
+              "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\New folder\\Shop.Data\\Shop.Data.csproj": {
+                "projectPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\New folder\\Shop.Data\\Shop.Data.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lCWEwGGzHS3yZnZeRP/N3ziY3L/bToM/TtqE1UvDWCNqKaGxnlTzfvk0VylFp442fO3XOff4KXEHc0XQTQRiGQ==",
+  "dgSpecHash": "fi9pfYQjFOwBeViW7BxtyOV7tKL17XbFf+INY3Gl0Gl1OF9EYba48yjv8MGqIb/i3wbCqce0xpnrX1ndFKq9vA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.Core\\Shop.Core.csproj",
+  "projectFilePath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\New folder\\Shop.Core\\Shop.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tristan.lossman\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.20\\microsoft.aspnetcore.http.features.3.1.20.nupkg.sha512",
     "C:\\Users\\tristan.lossman\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.20\\microsoft.extensions.configuration.3.1.20.nupkg.sha512",

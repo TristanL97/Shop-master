@@ -6895,11 +6895,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop\\Shop.csproj",
+      "projectUniqueName": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\New folder\\Shop\\Shop.csproj",
       "projectName": "Shop",
-      "projectPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop\\Shop.csproj",
+      "projectPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\New folder\\Shop\\Shop.csproj",
       "packagesPath": "C:\\Users\\tristan.lossman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop\\obj\\",
+      "outputPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\New folder\\Shop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tristan.lossman\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6916,11 +6916,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj": {
-              "projectPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj"
+            "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\New folder\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj": {
+              "projectPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\New folder\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj"
             },
-            "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.Data\\Shop.Data.csproj": {
-              "projectPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.Data\\Shop.Data.csproj"
+            "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\New folder\\Shop.Data\\Shop.Data.csproj": {
+              "projectPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\New folder\\Shop.Data\\Shop.Data.csproj"
             }
           }
         }

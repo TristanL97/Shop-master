@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iUaERzWTTWI1gO5gqT3K8YkmZ/a7dj1xK2M23/4I6dXkIosOpgcJ3TlPv4nQYu7uIMWL9+AMU4ZQWSJpV9NQ7w==",
+  "dgSpecHash": "tkZfQJRjioyytBRQ6HobOt5P7gMQJaxtg9nMXyI9gzP5gsCpy0jcrYq7CEzEdmmstbTtouUtgLm1J9zZ3JTzqA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj",
+  "projectFilePath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\New folder\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tristan.lossman\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.20\\microsoft.aspnetcore.cryptography.internal.3.1.20.nupkg.sha512",
     "C:\\Users\\tristan.lossman\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.20\\microsoft.aspnetcore.cryptography.keyderivation.3.1.20.nupkg.sha512",
