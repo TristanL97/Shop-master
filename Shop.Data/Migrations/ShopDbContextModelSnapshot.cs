@@ -215,10 +215,45 @@ namespace Shop.Data.Migrations
                     b.ToTable("AspNetUserTokens");
                 });
 
+            modelBuilder.Entity("Shop.Core.Domain.Cars", b =>
+                {
+                    b.Property<Guid?>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("Color")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("CreatedAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<double>("EnginePower")
+                        .HasColumnType("float");
+
+                    b.Property<DateTime>("ModifiedAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<double>("Price")
+                        .HasColumnType("float");
+
+                    b.Property<string>("Series")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Cars");
+                });
+
             modelBuilder.Entity("Shop.Core.Domain.ExistingFilePath", b =>
                 {
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid?>("CarId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid?>("CarsId")
                         .HasColumnType("uniqueidentifier");
 
                     b.Property<string>("FilePath")
@@ -228,6 +263,10 @@ namespace Shop.Data.Migrations
                         .HasColumnType("uniqueidentifier");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("CarsId");
+
+                    b.HasIndex("ProductId");
 
                     b.ToTable("ExistingFilePath");
                 });
@@ -310,6 +349,17 @@ namespace Shop.Data.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("Shop.Core.Domain.ExistingFilePath", b =>
+                {
+                    b.HasOne("Shop.Core.Domain.Cars", null)
+                        .WithMany("ExistingFilePaths")
+                        .HasForeignKey("CarsId");
+
+                    b.HasOne("Shop.Core.Domain.Product", null)
+                        .WithMany("ExistingFilePaths")
+                        .HasForeignKey("ProductId");
                 });
 #pragma warning restore 612, 618
         }

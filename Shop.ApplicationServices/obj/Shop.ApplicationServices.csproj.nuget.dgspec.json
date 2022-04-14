@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj": {}
+    "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\k00l\\Shop-master\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj": {
+    "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\k00l\\Shop-master\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj",
+        "projectUniqueName": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\k00l\\Shop-master\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj",
         "projectName": "Shop.ApplicationServices",
-        "projectPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj",
+        "projectPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\k00l\\Shop-master\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj",
         "packagesPath": "C:\\Users\\tristan.lossman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.ApplicationServices\\obj\\",
+        "outputPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\k00l\\Shop-master\\Shop.ApplicationServices\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tristan.lossman\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.Core\\Shop.Core.csproj": {
-                "projectPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.Core\\Shop.Core.csproj"
+              "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\k00l\\Shop-master\\Shop.Core\\Shop.Core.csproj": {
+                "projectPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\k00l\\Shop-master\\Shop.Core\\Shop.Core.csproj"
               },
-              "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.Data\\Shop.Data.csproj": {
-                "projectPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.Data\\Shop.Data.csproj"
+              "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\k00l\\Shop-master\\Shop.Data\\Shop.Data.csproj": {
+                "projectPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\k00l\\Shop-master\\Shop.Data\\Shop.Data.csproj"
               }
             }
           }
@@ -54,6 +54,18 @@
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.1.20, )"
+            },
+            "Nancy": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[107.1.2, )"
             }
           },
           "imports": [
@@ -78,14 +90,14 @@
         }
       }
     },
-    "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.Core\\Shop.Core.csproj": {
+    "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\k00l\\Shop-master\\Shop.Core\\Shop.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.Core\\Shop.Core.csproj",
+        "projectUniqueName": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\k00l\\Shop-master\\Shop.Core\\Shop.Core.csproj",
         "projectName": "Shop.Core",
-        "projectPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.Core\\Shop.Core.csproj",
+        "projectPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\k00l\\Shop-master\\Shop.Core\\Shop.Core.csproj",
         "packagesPath": "C:\\Users\\tristan.lossman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.Core\\obj\\",
+        "outputPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\k00l\\Shop-master\\Shop.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tristan.lossman\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -121,6 +133,10 @@
             "Microsoft.Extensions.Hosting": {
               "target": "Package",
               "version": "[3.1.20, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
             }
           },
           "imports": [
@@ -142,14 +158,14 @@
         }
       }
     },
-    "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.Data\\Shop.Data.csproj": {
+    "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\k00l\\Shop-master\\Shop.Data\\Shop.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.Data\\Shop.Data.csproj",
+        "projectUniqueName": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\k00l\\Shop-master\\Shop.Data\\Shop.Data.csproj",
         "projectName": "Shop.Data",
-        "projectPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.Data\\Shop.Data.csproj",
+        "projectPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\k00l\\Shop-master\\Shop.Data\\Shop.Data.csproj",
         "packagesPath": "C:\\Users\\tristan.lossman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.Data\\obj\\",
+        "outputPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\k00l\\Shop-master\\Shop.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tristan.lossman\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -166,8 +182,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.Core\\Shop.Core.csproj": {
-                "projectPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.Core\\Shop.Core.csproj"
+              "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\k00l\\Shop-master\\Shop.Core\\Shop.Core.csproj": {
+                "projectPath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\k00l\\Shop-master\\Shop.Core\\Shop.Core.csproj"
               }
             }
           }

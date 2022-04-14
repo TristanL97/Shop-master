@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lCWEwGGzHS3yZnZeRP/N3ziY3L/bToM/TtqE1UvDWCNqKaGxnlTzfvk0VylFp442fO3XOff4KXEHc0XQTQRiGQ==",
+  "dgSpecHash": "dsZ/Zh4yR0T87FoPZxuklg+xaTjsd0XHAb36SEXTinIUoXKZN8KS5PDvP3ZQyD5AbEr5mi95Aih2RTazIA1JeQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\Töö\\Shop-master\\Shop.Core\\Shop.Core.csproj",
+  "projectFilePath": "C:\\Users\\tristan.lossman\\OneDrive - sauevald.ee\\Desktop\\k00l\\Shop-master\\Shop.Core\\Shop.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tristan.lossman\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.20\\microsoft.aspnetcore.http.features.3.1.20.nupkg.sha512",
     "C:\\Users\\tristan.lossman\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.20\\microsoft.extensions.configuration.3.1.20.nupkg.sha512",
@@ -32,6 +32,7 @@
     "C:\\Users\\tristan.lossman\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.20\\microsoft.extensions.primitives.3.1.20.nupkg.sha512",
     "C:\\Users\\tristan.lossman\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\tristan.lossman\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\tristan.lossman\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\tristan.lossman\\.nuget\\packages\\system.diagnostics.eventlog\\4.7.0\\system.diagnostics.eventlog.4.7.0.nupkg.sha512",
     "C:\\Users\\tristan.lossman\\.nuget\\packages\\system.io.pipelines\\4.7.4\\system.io.pipelines.4.7.4.nupkg.sha512",
     "C:\\Users\\tristan.lossman\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
